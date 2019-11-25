@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\bin\Debug\db_test.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\bin\Debug\db_test.exe
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\bin\Debug\db_test.pdb
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\bin\Debug\db_test.xml
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.exe
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.xml
+c:\users\asus\documents\visual studio 2015\Projects\db_test\db_test\obj\Debug\db_test.pdb
